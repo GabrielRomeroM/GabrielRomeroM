@@ -7,27 +7,34 @@
 Soy un **Full Stack Developer** apasionado por la tecnología, con experiencia en **React, Node.js y bases de datos**. Me encanta aprender nuevas tecnologías y construir proyectos que aporten soluciones innovadoras.  
 
 - 🔎 Buscando oportunidades en desarrollo web.  
-- 🌱 Aprendiendo **TypeScript y arquitectura de software**.  
-- 🎯 Apasionado por el desarrollo eficiente y escalable.  
+- 🌱 Actualmente aprendiendo **TypeScript y arquitectura de software**.  
+- 🎯 Apasionado por el desarrollo eficiente, escalable y centrado en el usuario.  
 
 ---
 
 ### 🛠️ Tech Stack  
-💡 **Lenguajes**: JavaScript, TypeScript  
-🎨 **Frontend**: React, HTML, CSS, Tailwind  
-⚙️ **Backend**: Node.js, Express  
-🛢️ **Bases de datos**: MongoDB, SQL  
-🔐 **Autenticación**: JWT, Bcrypt  
-🛠️ **Herramientas**: Git, GitHub, Postman, Docker  
+#### 🎨 Frontend  
+- React, HTML, CSS  
+#### ⚙️ Backend  
+- Node.js, Express  
+#### 🛢️ Bases de datos  
+- MongoDB, SQL  
+#### 🔐 Autenticación  
+- JWT, Bcrypt  
+#### 🛠️ Herramientas  
+- Git, GitHub, Postman  
 
 ---
 
 ### 📌 Proyectos Destacados  
 🌟 **[API REST - Gimnasio](https://github.com/GabrielRomeroM/Gym-backend)**  
-📌 Node.js, Express, MongoDB | API para la gestión de usuarios, categorías y productos de un gimnasio.  
+📌 Node.js, Express y MongoDB | API para la gestión de usuarios, categorías y productos de un gimnasio.  
 
 ⚡ **[To-Do App con MERN (Próximamente)]()**  
-📌 React, Node.js, MongoDB | Aplicación para gestionar tareas con autenticación.  
+📌 React, Node.js y MongoDB | Aplicación para gestionar tareas con autenticación JWT y diseño responsive.  
+
+📦 **[Proyecto E-commerce con React (Próximamente)]()**  
+📌 React, Node.js y MongoDB | Plataforma de comercio electrónico con autenticación JWT, carrito de compras dinámico, integración de pasarela de pagos (Stripe) y panel de administración.  
 
 ---
 
@@ -45,4 +52,4 @@ Soy un **Full Stack Developer** apasionado por la tecnología, con experiencia e
 ---
 
 ### 🚀 ¡Gracias por visitar mi perfil!  
-¡Siempre estoy abierto a nuevas oportunidades y colaboraciones! 😃✨  
+¿Interesado en colaborar o tienes una oportunidad? ¡No dudes en contactarme! Estoy siempre abierto a nuevos desafíos y proyectos emocionantes. 😃✨
