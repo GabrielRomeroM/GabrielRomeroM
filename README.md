@@ -1,16 +1,19 @@
-## Hi there 👋
+### 👋 ¡Hola! Soy Gabriel Romero Maidana  
 
-<!--
-**GabrielRomeroM/GabrielRomeroM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Full Stack Developer | JavaScript | React | Node.js**  
 
-Here are some ideas to get you started:
+🚀 Apasionado por la tecnología y en constante aprendizaje. Busco oportunidades para aplicar mis conocimientos en desarrollo web y contribuir a proyectos innovadores.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 **Tecnologías principales:**  
+- 🏗️ Frontend: HTML, CSS, JavaScript, React  
+- ⚙️ Backend: Node.js, Express  
+- 🛢️ Base de datos: MongoDB, SQL  
+- 🔐 Autenticación: JWT, Bcrypt  
+
+📌 **Proyectos destacados:**  
+- 🔗 [Proyecto 1 - E-commerce con React](https://github.com/GabrielRomeroM/ecommerce)  
+- 🔗 [Proyecto 2 - API REST con Node y MongoDB](https://github.com/GabrielRomeroM/api-gym)  
+
+📫 **Contáctame:**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-GabrielRomeroM-blue?logo=linkedin)](https://www.linkedin.com/in/gabriel-romero-maidana-645a621b8)  
+✉️ gabrielromeromaidana@gmail.com  
