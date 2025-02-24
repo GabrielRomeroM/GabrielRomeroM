@@ -38,7 +38,7 @@ Soy un **Full Stack Developer** apasionado por la tecnología, con experiencia e
 ---
 
 ### 📫 Conéctate conmigo  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-GabrielRomeroM-blue?logo=linkedin)](https://www.linkedin.com/in/gabriel-romero-maidana-645a621b8)  
+🔗 **LinkedIn:** [Gabriel Romero Maidana](https://www.linkedin.com/in/gabriel-romero-maidana-645a621b8)  
 ✉️ **Email**: gabrielromeromaidana@gmail.com  
 💻 **GitHub**: [GabrielRomeroM](https://github.com/GabrielRomeroM)  
 
